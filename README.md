@@ -1,41 +1,17 @@
 # Caio Mussatto
-
-**Cientista de Dados & Bioinformata | Python | Single-cell RNA-Seq**
-
-📧 caio.mussatto@gmail.com | [GitHub](https://github.com/caiomussatto)
+**Cientista de Dados & Bioinformata | Python | Single-cell RNA-Seq**  
+📧 caio.mussatto@gmail.com | [GitHub](https://github.com/caiomussatto) | [Projeto de Mestrado](https://caiomussatto.shinyapps.io/cacaio/) 
 
 ---
 
-## 🛠️ Stack Principal
-
-**Python** (Pandas, NumPy, Scanpy) | **R** (Seurat, Shiny) | **SQL** (PostgreSQL) | **Git**
-
----
-
-## 📂 Projetos
-
-**🔬 O Cacaio**  
-Análise de scRNA-seq: 11 datasets (258K+ células) com pipeline Python completo.
-
-**📦 Seurat2Monacle**  
-Pacote R para conversão entre objetos Seurat e Monocle.
-
-**🕷️ Scrapy_MongoDB**  
-Pipeline de web scraping com Scrapy e MongoDB.
-
-**🗃️ PostgreSQL Notes**  
-Documentação técnica de PostgreSQL.
+**🔬 [O Cacaio](https://github.com/CaioMussatto/Cacaio)** - Pipeline Python (Scanpy, Pandas) para análise de 11 datasets scRNA-seq (258K+ células)  
+**📦 [Seurat2Monacle](https://github.com/CaioMussatto/Seurat2Monacle)** - Pacote R (Seurat, Monocle) para conversão de objetos de análise single-cell  
+**🗃️ [PostgreSQL](https://github.com/CaioMussatto/PostgreSQL)** - Documentação e exemplos técnicos
+**🕷️ [Scrapy_MongoDB](https://github.com/CaioMussatto/Scrapy_MongoDB_Real_Python_Tutorial)** - ETL com Scrapy e armazenamento em MongoDB  
 
 ---
-
-## 💼 Experiência
 
 **Pesquisador em Bioinformática - UNESP**  
-Processamento de dados de scRNA-seq, desenvolvimento de pipelines Python/R, dashboards com Shiny.
+Desenvolvimento de pipelines Python/R para análise de scRNA-seq e dashboards com Shiny
 
----
-
-## 🎓 Formação
-
-**Mestrado em Genética** - UNESP (2023-2026)  
-**Bach. Ciências Biológicas** - UNESP (2019-2024)
+**Mestrado em Genética - UNESP** (2023-2026)
