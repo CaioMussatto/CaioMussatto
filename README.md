@@ -158,4 +158,4 @@ Compilação organizada de conhecimento sobre PostgreSQL:
 
 ---
 
-*Portfólio focado em projetos técnicos e habilidades de programação • Atualizado em dezembro de 2024*
+*Portfólio focado em projetos técnicos e habilidades de programação • Atualizado em dezembro de 2025*
