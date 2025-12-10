@@ -1,6 +1,8 @@
 # Caio Mussatto
 **Cientista de Dados & Bioinformata | Python | Single-cell RNA-Seq**  
+
 📧 caio.mussatto@gmail.com | [Projeto de Mestrado](https://caiomussatto.shinyapps.io/cacaio/) 
+
 ---
 
 **🔬 [O Cacaio](https://github.com/CaioMussatto/Cacaio)** - Pipeline Python (Scanpy, Pandas) para análise de 11 datasets scRNA-seq (258K+ células)  
