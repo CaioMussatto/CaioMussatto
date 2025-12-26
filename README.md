@@ -1,18 +1,38 @@
-# Caio Mussatto
-**Cientista de Dados & Bioinformata | Python | Single-cell RNA-Seq**  
+# Caio Mussatto | Data Scientist & Bioinformatician
 
-📧 caio.mussatto@gmail.com | [Projeto de Mestrado](https://caiomussatto.shinyapps.io/cacaio/) 
+**Computational Biology | Single-cell RNA-seq | Cloud & ML**  
+📧 caio.mussatto@gmail.com • [LinkedIn](https://www.linkedin.com/in/caiomussatto/) • [Master's project](https://caiomussatto.shinyapps.io/cacaio/)
+
+## 🚀 Featured Projects
+**[Cacaio – Cell Line Similarity Pipeline](https://github.com/CaioMussatto/Cacaio)**  
+End-to-end Python pipeline for single-cell RNA-seq analysis comparing CCLE cancer cell lines with primary tumors. Processes 11 datasets (>250K cells) using Scanpy, computes similarity metrics, and delivers results through an interactive Streamlit dashboard for biological exploration.
+
+**[Cacaio-Docker – Cloud Deployment](https://github.com/CaioMussatto/Cacaio-docker)**  
+Production-ready containerization of the Cacaio pipeline deployed on Google Cloud Platform. Implements Docker orchestration, CI/CD workflows, and scalable cloud architecture for reproducible bioinformatics applications.
+
+**[LatexIA – PDF Layout Reconstruction](https://github.com/CaioMussatto/LatexIA)**  
+Machine learning system that converts PDF documents into structured LaTeX code. Features a cloud-native pipeline with Random Forest classification, Supabase backend, and ARM64 Docker containers for efficient document processing.
+
+**[Bioinfo-Seeker Pro – Job Automation](https://github.com/CaioMussatto/Bioinfo-Seeker-Pro)**  
+Intelligent job search automation platform for Bioinformatics roles. Aggregates listings from LinkedIn, Indeed, and Google using web scraping, applies keyword filtering (Python/R/Biology terms), and presents curated opportunities through a modern Flask dashboard with PostgreSQL backend.
+
+## 🛠️ Technical Skills
+**Languages:** Python (Scanpy, Pandas, Scikit-learn), R (Seurat, Monocle, Shiny), SQL, LaTeX  
+**Cloud & DevOps:** Docker, Google Cloud Platform, CI/CD, Cloud-Native Architecture  
+**Data Science:** Single-cell RNA-seq Analysis, Machine Learning Pipelines, Data Visualization  
+**Tools:** Git, Streamlit, Flask, Supabase, MongoDB
+
+## 💼 Experience
+**Bioinformatics Researcher – UNESP** (2023–Present)  
+- Develop computational pipelines for single-cell transcriptomics analysis  
+- Create interactive visualization dashboards using R Shiny for genomic data  
+- Collaborate on cancer genomics research with clinical applications
+
+## 🎓 Education
+**MSc in Genetics – UNESP** (2023–2026)  
+Thesis: Computational approaches for analyzing cell line and tumor similarity using single-cell transcriptomics
+
+**BSc in Biological Sciences – UNESP** (2019–2024)
 
 ---
-
-**🔬 [O Cacaio](https://github.com/CaioMussatto/Cacaio)** - Pipeline Python (Scanpy, Pandas) para análise de 11 datasets scRNA-seq (258K+ células)  
-**📦 [Seurat2Monacle](https://github.com/CaioMussatto/Seurat2Monacle)** - Pacote R (Seurat, Monocle) para conversão de objetos de análise single-cell  
-**🗃️ [PostgreSQL](https://github.com/CaioMussatto/PostgreSQL)** - Documentação e exemplos técnicos <br>
-**🕷️ [Scrapy_MongoDB](https://github.com/CaioMussatto/Scrapy_MongoDB_Real_Python_Tutorial)** - ETL com Scrapy e armazenamento em MongoDB  
-
----
-
-**Pesquisador em Bioinformática - UNESP**  
-Desenvolvimento de pipelines Python/R para análise de scRNA-seq e dashboards com Shiny
-
-**Mestrado em Genética - UNESP** (2023-2026)
+**✨ Open to collaboration on computational biology, data science, and cloud infrastructure projects.**
