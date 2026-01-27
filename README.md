@@ -35,7 +35,7 @@
 | **[Cacaio](https://github.com/CaioMussatto/Cacaio)** | scRNA-seq pipeline | Python, Scanpy | R, Seurat, Shiny |
 | **[Cacaio-Docker](https://github.com/CaioMussatto/Cacaio-docker)** | Cloud deployment | Docker, GCP | CI/CD, Bash |
 | **[Bioinfo-Seeker Pro](https://github.com/CaioMussatto/Bioinfo-Seeker-Pro)** | Job automation | Docker, Flask, GDC | Supabase, Bootstrap |
-| **[LatexAWS](https://github.com/CaioMussatto/Cacaio-docker)** | Automated Document Generation | Flask, Docker, AWS | LaTeX, Random Forest |
+| **[LatexAWS](https://github.com/CaioMussatto/LatexAWS)** | Automated Document Generation | Flask, Docker, AWS | LaTeX, Random Forest |
 | **[LatexIA](https://github.com/CaioMussatto/LatexIA)** | PDF to LaTeX | Python, RF, Random Forest | Supabase, LaTeX, Docker |
 | **[retail-demand-forecasting-mlops](https://github.com/CaioMussatto/retail-demand-forecasting-mlops)** | Batch Demand Pipeline | AWS, Python | Docker, CDK
 
