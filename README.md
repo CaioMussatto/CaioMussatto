@@ -1,6 +1,6 @@
 # Caio Mussatto | Data Scientist & Bioinformatician
 
-<img src="https://github-readme-stats-eight-nu-80.vercel.app/api/top-langs?username=CaioMussatto&layout=compact&langs_count=4&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5" align="right" height="220cm"/>
+<img src="https://github-readme-stats-eight-nu-80.vercel.app/api/top-langs?username=CaioMussatto&layout=compact&langs_count=4&theme=radical&hide_border=true&size_weight=0.5&count_weight=1" align="right" height="220cm"/>
 
 **Computational Biology • Single-cell RNA-seq • Cloud & ML** <br>
 📧 [caio.mussatto@gmail.com](mailto:caio.mussatto@gmail.com)  <br>
